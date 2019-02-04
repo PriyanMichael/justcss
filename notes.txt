@@ -1,0 +1,16 @@
+css 
+bg color mdn
+colorhunt.co hex codes
+
+WHICH TO COLOR AND HEX
+specific to our needs
+
+default css for certain tags
+
+css fonts: cssfontsstack.com for backup fonts
+or fonts.google.com
+
+for icons: flaticon.com
+
+for gifs: giphy.com
+
